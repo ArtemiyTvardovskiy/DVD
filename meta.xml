@@ -1,0 +1,6 @@
+<meta>
+	<info author = "Night_Lanterns" name = "DVD"></info>
+	<script src="main-c.lua" type="client" />
+
+	<file src="for_texture.png"/>
+</meta>
